@@ -1,0 +1,21 @@
+sygnal_ekg.txt: Têtno: 73.87 uderzeñ/min
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 12:56:43.041430, Wynik: Têtno: 73.87 uderzeñ/min
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 12:56:46.180477, Wynik: Poziom stresu: Œredni poziom stresu
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 12:56:48.356859, Wynik: Odchylenie standardowe: 35.1231
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 13:00:18.078993, Wynik: Poziom stresu: Œredni poziom stresu
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 13:00:21.244783, Wynik: Têtno: 73.87 uderzeñ/min
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 13:00:23.712588, Wynik: Odchylenie standardowe: 35.1231
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 13:05:24.310724, Wynik: Rytm serca: Regularny
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 13:05:27.608851, Wynik: Odchylenie standardowe: 35.1231
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 13:07:30.548605, Wynik: Têtno: 73.87 uderzeñ/min
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 13:07:33.024318, Wynik: Poziom stresu: Sredni poziom stresu
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 13:08:39.552757, Wynik: Têtno: 73.87 uderzeñ/min
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 13:08:42.594910, Wynik: Odchylenie standardowe: 35.1231
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 13:08:44.748584, Wynik: Poziom stresu: Sredni poziom stresu
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-16 13:08:47.485445, Wynik: Rytm serca: Regularny
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-19 14:30:43.841125, Wynik: Tetno: 73.87 uderzen/min
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-19 14:31:03.765248, Wynik: Odchylenie standardowe: 35.1231
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-19 14:31:07.084190, Wynik: Poziom stresu: Sredni poziom stresu
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-19 14:31:10.768414, Wynik: Rytm serca: Regularny
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-19 14:31:13.659492, Wynik: Odchylenie standardowe: 35.1231
+Plik: sygnal_ekg.txt, Lekarz: Ilona Nowak, Data analizy: 2024-01-19 14:31:17.733916, Wynik: Poziom stresu: Sredni poziom stresu
